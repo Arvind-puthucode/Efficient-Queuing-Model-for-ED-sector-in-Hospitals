@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1591978261 source:c:\users\thyag\desktop\datastructures package\main.cpp
+	<iostream>
+	"package.h"
+	"heap.h"
+
+1591978262 c:\users\thyag\desktop\datastructures package\package.h
+	<bits/stdc++.h>
+
+1591977458 c:\users\thyag\desktop\datastructures package\heap.h
+	<bits/stdc++.h>
+
+1595088903 source:d:\programming\ds_project\main.cpp
+	<iostream>
+	"package.h"
+	"heap.h"
+	<fstream>
+
+1594400808 d:\programming\ds_project\package.h
+	<bits/stdc++.h>
+
+1593019194 d:\programming\ds_project\heap.h
+	<bits/stdc++.h>
+
